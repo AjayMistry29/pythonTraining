@@ -1,0 +1,17 @@
+
+####################### Git Commands: ###################################
+
+git stash
+git stash list
+
+############################### Output ##################################
+ajaym@DESKTOP-RFTILPI MINGW64 ~/Desktop/git_practice/exercise-5 (master)
+$ git stash
+warning: LF will be replaced by CRLF in File1.py.
+The file will have its original line endings in your working directory
+Saved working directory and index state WIP on master: 35f9cf7 adding file1.py
+
+ajaym@DESKTOP-RFTILPI MINGW64 ~/Desktop/git_practice/exercise-5 (master)
+$ git stash list
+stash@{0}: WIP on master: 35f9cf7 adding file1.py
+
