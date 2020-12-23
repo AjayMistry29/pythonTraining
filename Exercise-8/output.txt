@@ -1,0 +1,14 @@
+Commands:
+
+To create a new branch "git branch Branch-Name"
+To merge new branch into main/master : git merge Name of new branch
+
+************* Output ************
+ajaym@DESKTOP-RFTILPI MINGW64 ~/Desktop/pythonTraining/Exercise-8 (main)
+$ git merge my-feature
+Updating b4fe1ca..b7e94a2
+Fast-forward
+ Exercise-8/about.html | 11 +++++++++++
+ 1 file changed, 11 insertions(+)
+ create mode 100644 Exercise-8/about.html
+
