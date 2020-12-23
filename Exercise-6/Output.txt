@@ -1,0 +1,28 @@
+***************** Before restore ************************
+ajaym@DESKTOP-RFTILPI MINGW64 ~/Desktop/pythonTraining/Exercise-6 (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   File1.py
+        new file:   File2.py
+
+****************** After restore **************************
+ajaym@DESKTOP-RFTILPI MINGW64 ~/Desktop/pythonTraining/Exercise-6 (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   File2.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        File1.py
+        Output.txt
+
+
+
