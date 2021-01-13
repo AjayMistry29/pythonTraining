@@ -23,6 +23,82 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
         File1.py
         Output.txt
+************************Git Log******************************
+ajaym@DESKTOP-RFTILPI MINGW64 ~/Desktop/pythonTraining/Exercise-6 (main)
+$ git log
+commit 38e846c97640ad6b66f4fe0b431dfd128f198b62 (HEAD -> main, origin/main, origin/HEAD)
+Author: ajay2929 <ajay.mistry92@gmail.com>
+Date:   Fri Jan 8 16:38:33 2021 -0500
+
+    Task4 Completed
+
+commit 9366684aadb3c1a53e9e1a56135ee64321b2e00e
+Author: ajay2929 <ajay.mistry92@gmail.com>
+Date:   Tue Jan 5 22:32:04 2021 -0500
+
+    Task3 Completed
+
+commit 1eaee061d6fd9f62ee80ef5dfa49b29c442fd589
+Author: ajay2929 <ajay.mistry92@gmail.com>
+Date:   Tue Jan 5 21:16:34 2021 -0500
+
+    Extra task completed
+
+commit 0e0f938b2d25fdfb5dacc27fc91cf2005998c840
+Author: ajay2929 <ajay.mistry92@gmail.com>
+Date:   Tue Dec 29 15:14:40 2020 -0500
+
+:...skipping...
+commit 38e846c97640ad6b66f4fe0b431dfd128f198b62 (HEAD -> main, origin/main, origin/HEAD)
+Author: ajay2929 <ajay.mistry92@gmail.com>
+Date:   Fri Jan 8 16:38:33 2021 -0500
+
+    Task4 Completed
+
+commit 9366684aadb3c1a53e9e1a56135ee64321b2e00e
+Author: ajay2929 <ajay.mistry92@gmail.com>
+Date:   Tue Jan 5 22:32:04 2021 -0500
+
+    Task3 Completed
+
+commit 1eaee061d6fd9f62ee80ef5dfa49b29c442fd589
+Author: ajay2929 <ajay.mistry92@gmail.com>
+Date:   Tue Jan 5 21:16:34 2021 -0500
+
+    Extra task completed
+
+commit 0e0f938b2d25fdfb5dacc27fc91cf2005998c840
+Author: ajay2929 <ajay.mistry92@gmail.com>
+Date:   Tue Dec 29 15:14:40 2020 -0500
+
+    Task2 All Exercises are completed
+
+commit fb1479feca768baae73e5bff00fc6290cba7c229
+Author: ajay2929 <ajay.mistry92@gmail.com>
+Date:   Mon Dec 28 09:47:12 2020 -0500
+
+    Task1 Completed
+
+commit 9368ca2c4d245117fab343c2d4ae4ace95215342
+Author: ajay2929 <ajay.mistry92@gmail.com>
+Date:   Thu Dec 24 18:18:41 2020 -0500
+
+    Index and About files added
+
+commit ab05865861ff270771e67e7d1a8dd40d08492e57
+Author: ajay2929 <ajay.mistry92@gmail.com>
+Date:   Thu Dec 24 18:12:41 2020 -0500
+
+    File X added
+
+commit c20b27af9360132d947c4eaa285539ad97faabe2
+Author: ajay2929 <ajay.mistry92@gmail.com>
+Date:   Thu Dec 24 18:07:32 2020 -0500
+
+    Initial Message
+
+:
+
 
 
 
